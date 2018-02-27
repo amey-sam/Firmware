@@ -26,11 +26,11 @@ set(config_module_list
 	#drivers/hott
 	#drivers/iridiumsbd
 	#drivers/irlock
-	drivers/imu/l3gd20
+	#drivers/imu/l3gd20
 	drivers/led
-	drivers/imu/lsm303d
+	#drivers/imu/lsm303d
 	drivers/magnetometer/hmc5883
-	drivers/magnetometer/lis3mdl
+	#drivers/magnetometer/lis3mdl
 	#drivers/mb12xx
 	#drivers/mkblctrl
 	drivers/imu/mpu6000

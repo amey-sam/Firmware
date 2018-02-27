@@ -20,8 +20,8 @@ set(config_module_list
 	drivers/led
 	drivers/px4fmu
 	drivers/boards
-	drivers/imu/lsm303d
-	drivers/imu/l3gd20
+	#drivers/imu/lsm303d
+	#drivers/imu/l3gd20
 	drivers/gps
 	drivers/pwm_out_sim
 	drivers/airspeed
